@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>my snippet</Title>
+			<Shortcut>vcm</Shortcut>
+		</Header>
+		<Snippet>
+			<Code Language="CSharp">
+				<![CDATA[
+				
+	 public class $titulo$CommandValidator : AbstractValidator<$titulo$CommandInternal>
+       {
+        private readonly ISidonDbContext _dbContext;
+
+        public $titulo$CommandValidator(ISidonDbContext dbContext)
+        {
+            _dbContext = dbContext;
+
+            RuleFor(x => x.$prop$)
+                .NotEmpty().WithErrorCode(StatusCodes.Status400BadRequest.ToString())
+                .NotNull().WithErrorCode(StatusCodes.Status400BadRequest.ToString());
+
+            RuleFor(c => c)
+                .CustomAsync(DbValidations);
+
+        }
+
+        private async Task DbValidations($titulo$CommandInternal request, ValidationContext<$titulo$CommandInternal> context, CancellationToken cancellationToken)
+        {
+            var $myVar$ = await _dbContext.$model$
+                                        .Where();
+        }
+
+    }
+	
+	 public class $titulo$CommandHandler : IRequestHandler<$titulo$CommandInternal, $titulo$CommandVm>
+        {
+        private readonly ISidonDbContext _dbContext;
+		private readonly IMapper _mapper;
+        private readonly IValidator<$titulo$CommandInternal> _validator;
+
+        public $titulo$CommandHandler(ISidonDbContext dbContext, IValidator<$titulo$CommandInternal> validator)
+        {
+            _dbContext = dbContext;
+			_mapper = mapper;
+            _validator = validator;
+        }
+
+        public async Task Handle($titulo$CommandInternal request, CancellationToken cancellationToken)
+        {
+            await _validator.CustomValidateAsync(request);
+
+            var $variable$ = await _dbContext.$condicion$;
+
+        }
+
+    }
+	
+	 [ApiController]
+    [Route("api/")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    public class $titulo$Controller : ControllerBase
+    {
+        private readonly IMediator _mediator;
+
+        public $titulo$Controller(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult> Delete$titulo$()
+        {
+            
+            await _mediator.Send(command);
+            return $return$;
+        }
+    }
+	
+				
+				
+				
+				]]>
+			</Code>
+			<Imports>
+				<Import>
+					<Namespace>FluentValidation</Namespace>					
+				</Import>
+				<Import>
+				    <Namespace>FluentValidation.Results</Namespace>
+				</Import>
+				<Import>
+					<Namespace>MediatR</Namespace>
+				</Import>
+				<Import>
+					<Namespace>Microsoft.AspNetCore.Http</Namespace>
+				</Import>
+				<Import>
+					<Namespace>Microsoft.AspNetCore.Mvc</Namespace>
+				</Import>
+				<Import>
+					<Namespace>Microsoft.EntityFrameworkCore</Namespace>
+				</Import>
+			</Imports>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

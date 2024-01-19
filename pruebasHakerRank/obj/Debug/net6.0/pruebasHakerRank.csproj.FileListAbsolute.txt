@@ -1,0 +1,14 @@
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Debug\net6.0\pruebasHakerRank.exe
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Debug\net6.0\pruebasHakerRank.deps.json
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Debug\net6.0\pruebasHakerRank.runtimeconfig.json
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Debug\net6.0\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Debug\net6.0\pruebasHakerRank.pdb
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.AssemblyInfoInputs.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.AssemblyInfo.cs
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.csproj.CoreCompileInputs.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\refint\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.pdb
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\pruebasHakerRank.genruntimeconfig.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Debug\net6.0\ref\pruebasHakerRank.dll

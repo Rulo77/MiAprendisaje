@@ -1,0 +1,5 @@
+C:\Users\Raul Gomez\Desktop\Estudios\pruebasHakerRank.exe
+C:\Users\Raul Gomez\Desktop\Estudios\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\pruebasHakerRank.deps.json
+C:\Users\Raul Gomez\Desktop\Estudios\pruebasHakerRank.runtimeconfig.json
+C:\Users\Raul Gomez\Desktop\Estudios\pruebasHakerRank.pdb

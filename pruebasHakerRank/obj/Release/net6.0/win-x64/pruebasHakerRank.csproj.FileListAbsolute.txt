@@ -1,0 +1,14 @@
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Release\net6.0\win-x64\pruebasHakerRank.exe
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Release\net6.0\win-x64\pruebasHakerRank.deps.json
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Release\net6.0\win-x64\pruebasHakerRank.runtimeconfig.json
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Release\net6.0\win-x64\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\bin\Release\net6.0\win-x64\pruebasHakerRank.pdb
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.AssemblyInfoInputs.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.AssemblyInfo.cs
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.csproj.CoreCompileInputs.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\refint\pruebasHakerRank.dll
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.pdb
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\pruebasHakerRank.genruntimeconfig.cache
+C:\Users\Raul Gomez\Desktop\Estudios\c#Tuturial\pruebasHakerRank\obj\Release\net6.0\win-x64\ref\pruebasHakerRank.dll
